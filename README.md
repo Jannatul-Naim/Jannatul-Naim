@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I’m Jannatul Naim Apu  
 
-<!--
-**Jannatul-Naim/Jannatul-Naim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **Computer Science, AI, and Deep Learning**  
+💻 Currently studying **Computer Science & Engineering (CSE) at UIU**  
+📊 Exploring **Machine Learning, Data Science, and Algorithms**  
+🎮 Also love working on **Game Development & Java Projects**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+
+**Languages:**  
+`Java` | `C` | `Python` | `C++` | `SQL`  
+
+**Frameworks & Tools:**  
+`TensorFlow` | `PyTorch` | `OpenCV` | `LibGDX` | `JavaFX`  
+
+**Other Skills:**  
+- Object-Oriented Programming (OOP)  
+- Data Structures & Algorithms  
+- Deep Learning (CNNs, Activation Functions, Backpropagation)  
+- Game Development (2D & 3D hybrid concepts)  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced **Machine Learning & Deep Learning** concepts  
+- **Computer Vision** (Face detection, image classification, etc.)  
+- **Java Game Development** with AI integration  
+
+---
+
+## 📈 GitHub Stats  
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jannatul-Naim&show_icons=true&theme=radical)  
+![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=Jannatul-Naim&layout=compact&theme=radical)  
+
+---
+
+## ✨ Fun Facts  
+- 🎵 I enjoy **light rock music**  
+- 📖 I love learning how **mathematics defines nature**  
+- 🧩 Always curious about **how algorithms connect with real-world data**  
+
+---
+
+## 📫 Let’s Connect  
+- 📧 Email: **naim191073@gmail.com**  
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jannatul-naim-apu-b6924225a/)
+
+---
+
