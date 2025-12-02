@@ -35,12 +35,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jannatul-Naim&show_icons=true&theme=radical)  
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=Jannatul-Naim&layout=compact&theme=radical)  
 
----
-
-## ✨ Fun Facts  
-- 🎵 I enjoy **light rock music**  
-- 📖 I love learning how **mathematics defines nature**  
-- 🧩 Always curious about **how algorithms connect with real-world data**  
 
 ---
 
