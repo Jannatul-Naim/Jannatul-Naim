@@ -26,7 +26,6 @@
 ## 🌱 Currently Learning  
 - Advanced **Machine Learning & Deep Learning** concepts  
 - **Computer Vision** (Face detection, image classification, etc.)  
-- **Java Game Development** with AI integration  
 
 ---
 
