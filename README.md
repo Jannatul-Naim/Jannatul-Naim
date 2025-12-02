@@ -30,13 +30,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jannatul-Naim&show_icons=true&theme=radical)  
-![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=Jannatul-Naim&layout=compact&theme=radical)  
-
-
----
 
 ## 📫 Let’s Connect  
 - 📧 Email: **naim191073@gmail.com**  
