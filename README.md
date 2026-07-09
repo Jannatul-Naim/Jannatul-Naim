@@ -1,14 +1,9 @@
 # 👋 Hi, I’m Jannatul Naim Apu  
 
-🚀 Passionate about **Computer Science, AI, and Deep Learning**  
+🚀 Passionate about **Computer Science, AI, Deep Learning and Robotics**  
 💻 Currently studying **Computer Science & Engineering (CSE) at UIU**  
 
 
-## 🌱 Currently Learning  
-- Advanced **Machine Learning & Deep Learning** concepts  
-- **Computer Vision** (Face detection, image classification, etc.)  
-
----
 
 
 ## 📫 Let’s Connect  
